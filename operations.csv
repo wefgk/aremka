@@ -1,7 +1,7 @@
 термин,перевод,пояснение
-addend,слогаемое,2
+addend,Слогаемое,2
 plus,плюс,+
-addend,слогаемое,2
+addend,Слогаемое,2
 equals,равно,=
 sum,сумма,4
 add,прибавлять,-
@@ -10,4 +10,23 @@ subtraction,вычитание,-
 minuend,уменьшаемое,5
 minus,минус,-
 subtrahend,вычитаемое,3
-differce,разность,2
+difference,разность,2
+multiplication,умножение,-
+times,раз/на - два,-
+fador,множитель,2
+multioly,умножыть,*
+fador,множитель,2
+produot,произведение,4
+dirision,деление,-
+dirided by,разделить на,-
+diriend,делимое,10
+dieide,делить,/
+dirisor,делитель,5
+quotient,частное,2
+exporentiotion,возведение в степень,-
+power,степень,-
+squared,в квадрате,-
+cubed,в кубе,-
+raise to,возведение в,-
+exponent,показатель степени,-
+base,основание,-
